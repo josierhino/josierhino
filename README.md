@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @josierhino
-- 👀 I’m interested in software development/SCD/Linux and the cloud!
-- 🌱 I’m currently learning Java, R script, SQL, HTML/css
-- 💞️ I’m looking to collaborate on HTML/css
+- 👀 I’m interested in software development/data analytics and the cloud!
+- 🌱 I’m currently learning Java, R, SQL, and Python.
 - 📫 How to reach me is simple, just add me on LinkedIn! https://www.linkedin.com/in/josephine-rhino-9456051ba/
 
 <!---

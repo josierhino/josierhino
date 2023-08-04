@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josierhino
-- 👀 I’m interested in software development/data analytics and the cloud!
-- 🌱 I’m currently learning Java, R, SQL, and Python.
+- 👀 I’m interested in data analytics and the cloud!
+- 🌱 I’m currently learning Python and Tableau.
 - 📫 How to reach me is simple, just add me on LinkedIn! https://www.linkedin.com/in/josephine-rhino-9456051ba/
 
 <!---
